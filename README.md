@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@azwarerizal07)
 
-- 📫 How to reach me [Email](azwarerizal@gmail.com)
+- 📫 How to reach me **azwarerizal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
