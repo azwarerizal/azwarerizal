@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115899c23ede3dd147e6f1796a6565fad8623ac17b&rid=giphy.gif&ct=g">
 
 
-- 🌱 I’m currently learning **Python Machine Learning, Visualization with Power BI, ETL tools**
+- 🌱 I’m currently learning **ETL tools, Visualization with Power BI, Python Data Scrapping **
 
 - 🤝 I’m looking for opportunity **Junior Data Engineer/Analyst or Internship Program**
 
