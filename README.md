@@ -1,4 +1,4 @@
-![MasterHead](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
+<img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="1000" height="300"/>
 
 <h2 align="center">Hallo! aya Azwar, disini saya ingin sharing seputar minat saya di bidang data analysis dan juga data engineering. Saya ingin berbagi pengalaman mengenai course apa saja yang sedang saya pelajari dan project-project yang telah saya kerjakan.</h2>
 <h3 align="center">Graduate of Information System from Telkom University. Passionate in business, technology and strongly interested in Data Engineering/Analysis.</h3>
