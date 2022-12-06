@@ -1,4 +1,5 @@
-<img align="center" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="800" height="200"/>
+<img align="center" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="900" height="200">
+
 
 <h3 align="center">Hallo! saya Azwar, disini saya ingin sharing seputar minat saya di bidang data analysis dan juga data engineering. Saya ingin berbagi pengalaman mengenai course apa saja yang sedang saya pelajari dan project-project yang telah saya kerjakan.</h3>
 <h4 align="center">Graduate of Information System from Telkom University. Passionate in business, technology and strongly interested in Data Engineering/Analysis.</h4>
