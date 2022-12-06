@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="950" height="300"/>
 
-<h2 align="center">Hallo! aya Azwar, disini saya ingin sharing seputar minat saya di bidang data analysis dan juga data engineering. Saya ingin berbagi pengalaman mengenai course apa saja yang sedang saya pelajari dan project-project yang telah saya kerjakan.</h2>
-<h3 align="center">Graduate of Information System from Telkom University. Passionate in business, technology and strongly interested in Data Engineering/Analysis.</h3>
+<h4 align="center">Hallo! saya Azwar, disini saya ingin sharing seputar minat saya di bidang data analysis dan juga data engineering. Saya ingin berbagi pengalaman mengenai course apa saja yang sedang saya pelajari dan project-project yang telah saya kerjakan.</h4>
+<h5 align="center">Graduate of Information System from Telkom University. Passionate in business, technology and strongly interested in Data Engineering/Analysis.</h5>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115899c23ede3dd147e6f1796a6565fad8623ac17b&rid=giphy.gif&ct=g">
 
