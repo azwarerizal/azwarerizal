@@ -14,13 +14,9 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@azwarerizal07)
 
 - 📫 How to reach me **azwarerizal@gmail.com**
-
-
-<details><summary>💻Materi/Modul/Project</summary>
+- 💻 Materi, Modul, and Portofolio | [[💾](https://github.com/azwarerizal/own-project)] Tap the icon
   
-+ [[💾](https://github.com/azwarerizal/own-project)] Tap the icon
-  
-  </details>
+
 
 
 <h3 align="left">Connect with me:</h3>
