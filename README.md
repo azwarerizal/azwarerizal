@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-azwar-erizal-si4107666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-azwar-erizal-si4107666/" height="30" width="40" /></a>
-<a href="https://instagram.com/@azwarerizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@azwarerizal" height="30" width="40" /></a>
+<a href="https://instagram.com/azwarerizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azwarerizal" height="30" width="40" /></a>
 <a href="https://medium.com/@azwarerizal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azwarerizal07" height="30" width="40" /></a>
 </p>
 
