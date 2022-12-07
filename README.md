@@ -15,6 +15,14 @@
 
 - 📫 How to reach me **azwarerizal@gmail.com**
 
+
+<details><summary>💻Materi/Modul/Project</summary>
+  
++ [[💾](https://github.com/azwarerizal/own-project)] Tap the icon
+  
+  </details>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-azwar-erizal-si4107666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-azwar-erizal-si4107666/" height="30" width="40" /></a>
