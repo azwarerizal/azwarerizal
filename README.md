@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **azwarerizal@gmail.com**
 
-- 💻 Materi, Modul, and Portofolio | [[💾](https://github.com/azwarerizal/own-project)] Tap the icon
+- 💻 Materi, Modul, and Portofolio | [[💾](https://github.com/azwarerizal/own-project)] **Tap the icon**
   
 
 
