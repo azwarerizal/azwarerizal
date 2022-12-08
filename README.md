@@ -7,13 +7,14 @@
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115899c23ede3dd147e6f1796a6565fad8623ac17b&rid=giphy.gif&ct=g">
 
 
-- 🌱 I’m currently learning **ETL tools, Visualization with Power BI, Python Data Scrapping, Google BigQuery etc.**
+- 🎯 I’m currently learning **ETL tools, Visualization with Power BI, Python Data Scrapping, Google BigQuery etc.**
 
 - 🤝 I’m looking for opportunity **Junior Data Engineer/Analyst or Internship Program**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@azwarerizal07)
 
 - 📫 How to reach me **azwarerizal@gmail.com**
+
 - 💻 Materi, Modul, and Portofolio | [[💾](https://github.com/azwarerizal/own-project)] Tap the icon
   
 
