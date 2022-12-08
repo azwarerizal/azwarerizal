@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="900" height="200">
+<img align="center" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded.gif" width="900" height="200">
 
 
 <h3 align="center">Hallo! saya Azwar, disini saya ingin sharing seputar minat saya di bidang data analysis dan juga data engineering. Saya ingin berbagi pengalaman mengenai course apa saja yang sedang saya pelajari dan project-project yang telah saya kerjakan.</h3>
